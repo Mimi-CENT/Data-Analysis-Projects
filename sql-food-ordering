@@ -1,7 +1,0 @@
-# Food Ordering Analysis (SQL)
-
-- Built a relational database using SQL with tables for customers, orders, and menu items
-- Populated sample data to simulate real-world transactions
-- Analysed order trends, item performance, and customer behaviour
-- Used SQL functions such as JOIN, GROUP BY, SUM, AVG, MIN, MAX
-- Ensured data quality and consistency through basic cleaning
