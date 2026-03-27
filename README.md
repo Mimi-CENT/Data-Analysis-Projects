@@ -1,6 +1,3 @@
-# Data-Analysis-Projects
-Collection of SQL and Excel projects showcasing data cleaning, transformation, analysis, and visualisation.
-
 # Data Analysis Projects
 
 This repository contains a collection of my data analysis projects using SQL and Excel. The projects focus on data cleaning, transformation, querying, and generating insights from structured datasets.
